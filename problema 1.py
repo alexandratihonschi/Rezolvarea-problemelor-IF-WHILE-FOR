@@ -1,6 +1,4 @@
 n=int(input("introduceti valoarea lui n-"))
-if n<28:
-    print("luna cu",n,"se zile nu exissta")
 if n==28:
     print("luna cu",n,"zile este februaie")
 if n==29:
